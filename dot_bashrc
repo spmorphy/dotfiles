@@ -99,3 +99,4 @@ fi
 #fi
 eval "$(~/.local/bin/mise activate bash)"
 eval "$(/usr/local/bin/starship init bash)"
+eval "$(fzf --bash)"
