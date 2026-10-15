@@ -98,5 +98,5 @@ fi
 #    . /etc/bash_completion
 #fi
 eval "$(~/.local/bin/mise activate bash)"
-eval "$(/usr/local/bin/starship init bash)"
+eval "$(starship init bash)"
 eval "$(fzf --bash)"
