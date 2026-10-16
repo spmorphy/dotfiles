@@ -1,6 +1,9 @@
 [tools]
+btop = "latest"
 chezmoi = "latest"
+claude = "latest"
 fzf = "latest"
 gh = "latest"
 neovim = "latest"
 starship = "latest"
+tmux = "latest"
